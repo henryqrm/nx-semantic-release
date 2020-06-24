@@ -1,7 +1,7 @@
 {
-	"name": "@qiwi/multi-semantic-release",
+	"name": "@henryqrm/nx-semantic-release",
 	"author": "Dave Houlbrooke <dave@shax.com>",
-	"version": "3.0.2",
+	"version": "1.0.0",
 	"license": "0BSD",
 	"engines": {
 		"node": ">=10.18",
